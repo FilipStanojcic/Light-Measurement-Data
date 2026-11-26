@@ -34,6 +34,7 @@ Status:	Curation Level: Enhanced curation (URI: https://wiki.pangaea.de/wiki/Cur
 
 Size:	35908 data points
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Masfjorden_air_Ed.tab description:
 
@@ -71,6 +72,7 @@ Status:	Curation Level: Enhanced curation (URI: https://wiki.pangaea.de/wiki/Cur
 
 Size:	34560 data points
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Masfjorden_air_PAR.tab description:
 
